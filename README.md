@@ -1,6 +1,6 @@
-# The Architecture of Thought
+# Hi, I'm Darshan Fofadiya.
 
-I have always been obsessed with **systems**.
+I am a Senior Applied Scientist at Amazon, but at my core I have always been obsessed with **systems**.
 
 Not just software systems, but the elegant, ruthless efficiency of natural ones. How does a neuron decide to fire? How does gravity organize chaos into galaxies? How does a child learn to speak not by memorizing dictionaries, but by grasping *concepts*?
 
